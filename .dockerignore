@@ -1,0 +1,14 @@
+node_modules
+npm-debug.log
+.history
+.env.example
+yarn-error.log
+tmp/uploads/*
+Dockerfile*
+docker-compose*
+.dockerignore
+.git
+.gitignore
+README.md
+LICENSE
+.vscode
